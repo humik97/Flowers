@@ -1,3 +1,0 @@
-25.04.2017 16:55:39 [main] INFO  Accessories.Accessories - Flowers grown up in : [Flower{Chamomile: length=8.0, date=Mon Mar 06 00:00:00 EET 2017, price=150}, Flower{Tulip: length=6.0, date=Tue Mar 07 00:00:00 EET 2017, price=300}, Flower{Rose: length=5.0, date=Wed Mar 08 00:00:00 EET 2017, price=300}]
-25.04.2017 16:55:39 [main] INFO  Accessories.Accessories - flowers,which have length (6-8) [Flower{Chamomile: length=8.0, date=Mon Mar 06 00:00:00 EET 2017, price=150}, Flower{Tulip: length=6.0, date=Tue Mar 07 00:00:00 EET 2017, price=300}]
-25.04.2017 16:55:39 [main] INFO  Accessories.Accessories - total cost of the bouquet: 757
